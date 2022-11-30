@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zindiks
 - 👀 I’m interested in (FRONT-END), (Data Analytics)
-- 🌱 I’m currently learning (React.js), (Redux Toolkit), (GraphQL)
+- 🌱 I’m currently learning (React.js), (Redux Toolkit) 
 - 📫 How to reach me klevi730@gmail.com
 
 <!---
