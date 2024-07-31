@@ -5,7 +5,7 @@
   - 👨🏼‍🎓 I'm a student at kood/Johvi
   - ✅ I'm primarily a Front-end developer, transitioning to Full-stack
   - 👀 I'm interested in Front-End, Back-end, Microservices, and DevOps
-  - 🌱 Currently learning PHP, GoLang, Node.js, and AWS Cloud Practitioner
+  - 🌱 
   - 🧑🏼‍💻 Experienced with: React, Svelte, Tailwind CSS, shadcn, PHP, Go, Node.js, GraphQL, SQLite, MySQL
 
 </div>
