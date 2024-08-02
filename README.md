@@ -2,9 +2,9 @@
 <div style="display: inline-block;">
 
   - 👋 Hi, I’m @Zindiks
-  - 👨🏼‍🎓 I'm a student at kood/Johvi
-  - ✅ I'm primarily a Front-end developer, transitioning to Full-stack
-  - 👀 I'm interested in Front-End, Back-end, Microservices, and DevOps
+  - 👨🏼‍🎓 I'm a student at kood/Johvi (2023 - 2025)
+  - ✅ I'm primarily a Front-end developer, transitioning to Full-stack and DevOps
+  - 👀 
   - 🌱 
   - 🧑🏼‍💻 Experienced with: React, Svelte, Tailwind CSS, shadcn, PHP, Go, Node.js, GraphQL, SQLite, MySQL
 
