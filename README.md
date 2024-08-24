@@ -6,7 +6,7 @@
   - ✅ I'm primarily a Front-end developer, transitioning to Full-stack and DevOps
   - 👀 
   - 🌱 
-  - 🧑🏼‍💻 Experienced with: React, Svelte, Tailwind CSS, shadcn, PHP, Go, Node.js, GraphQL, SQLite, MySQL
+  - 🧑🏼‍💻 Experienced with: React, Svelte, Tailwind CSS, shadcn, Go, Node.js, GraphQL, SQL
 
 </div>
 
